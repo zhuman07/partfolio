@@ -1,0 +1,108 @@
+body {
+  color: #222;
+  letter-spacing: 1px; }
+
+a,
+.icon-basic-mail {
+  color: #FF6347; }
+
+p,
+body .main-footer {
+  color: #888; }
+
+.color_element {
+  color: #FF6347; }
+
+.color_bg {
+  background-color: #FF6347; }
+
+.color_border {
+  border-color: #FF6347; }
+
+.main_color_bg {
+  background-color: #222; }
+
+.bg_light {
+  background-color: #FAFAFA; }
+  .bg_light h2 {
+    color: #222;
+  }
+
+.bg_dark {
+  background-color: #222;
+  border-top: 5px solid #fff;
+  border-bottom: 5px solid #fff;}
+  .bg_dark .s_desc::after {
+    background-color: #FFF; }
+  .bg_dark a, h2 {
+    color: #FFF; }
+
+.mob-menu a {
+  letter-spacing: 4px; }
+  .mob-menu a:hover {
+    color: #FF6347;
+    background-color: rgba(255, 255, 255, 0.05); }
+
+.top-menu ul .active a {
+  color: #FF6347;
+  background-color: rgba(0, 0, 0, 0.3);
+  letter-spacing: 5px; }
+
+.top-menu a {
+  letter-spacing: 2px; }
+  .top-menu a:hover {
+    color: #FF6347;
+    background-color: rgba(255, 255, 255, 0.1);
+    letter-spacing: 5px; }
+
+.top-text p {
+  color: #FAFAFA;
+  letter-spacing: 5px; }
+
+.s_desc {
+  letter-spacing: 5px; }
+  .s_desc::after {
+    background-color: #222; }
+
+section h3 {
+  letter-spacing: 3px;
+  color: #888; }
+
+.admin-name {
+  letter-spacing: 2px;
+  color: #555; }
+
+.s_portfolio li {
+  letter-spacing: 2px;
+  color: #888; }
+  .s_portfolio li.active {
+    color: #fff;
+    border-bottom: 1px solid #FF6347; }
+
+.item-content a {
+  border-color: #FF6347;
+  color: #FF6347; }
+
+.text-danger {
+  color: #FF6347; }
+
+form input:focus,
+form textarea:focus {
+  border: 1px solid #FF6347; }
+
+form button {
+  background-color: #FF6347;
+  letter-spacing: 2px; }
+
+form .form-group {
+  color: #888; }
+
+form input,
+form textarea {
+  letter-spacing: 2px; }
+
+svg {
+  width: 120px;
+  height: 70px;
+  position: relative;
+  z-index: 100; }
